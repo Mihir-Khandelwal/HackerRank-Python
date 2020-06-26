@@ -1,1 +1,1 @@
-# Welcome to Hacker Rank Python.
+# Welcome to Hacker Rank C++.
